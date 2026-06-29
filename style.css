@@ -1,0 +1,42 @@
+
+.container{
+    width:200px;
+    height:200px;
+    margin: 4px;
+}
+h2{
+    color:Blue;
+
+}
+input{
+    width:250px;
+    font-size:16px;
+    height:20px;
+    padding:10px;
+    border:2px solid black;
+    border-radius:5px;
+}
+input[type="text"]{
+    background-color: #f0f0f0;
+}
+input[type="password"]{
+    background-color: #f0f0f0;
+}
+body{
+    background-color:#EAF4FC ;
+}
+input[type="number"]{
+    background-color: #f0f0f0;
+}
+input[type="Date"]{
+    background-color: #d4cccc;
+}
+button[type="submit"]{
+    background-color: green;
+    width:60px;
+    margin:10px;
+}
+button[type="Reset"]{
+    background-color: red;
+    width:60px;
+}
